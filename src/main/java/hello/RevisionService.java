@@ -18,7 +18,7 @@ public class RevisionService {
         System.out.println("1");
         System.out.println("1");
     }
-   public void methodRevision1(){
+   public void methodRevision3(){
      System.out.println("1");
    }
 }
